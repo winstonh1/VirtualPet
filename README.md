@@ -276,3 +276,8 @@ Samples of Student Work
 [Jocelyn](https://joce7yn.github.io/VirtualPet/)    
 [Davyn](https://pandasharkkk.github.io/VirtualPet/)       
 [Francisco](https://frponce.github.io/VirtualPet/)
+[Lilah](https://lilahanders817.github.io/VirtualPet/)
+[Finley](https://finleycaul.github.io/VirtualPet/)
+[Jason](https://jachen28.github.io/VirtualPet/)
+[Ethan](https://ethan-chu-shlawg.github.io/VirtualPet/)
+[Sebastian](https://sebastianapcs.github.io/VirtualPet/)
